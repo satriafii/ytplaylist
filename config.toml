@@ -1,0 +1,41 @@
+baseURL = ""
+languageCode = "en-us"
+theme = "glim-midnight"
+
+[params]
+    title = "Glim Midnight"
+    phrases = ["Youtube", "Musics", "Minimal", "Videos"]
+    links = [
+    {name = "K-Band ❤️", url = "https://www.youtube.com/playlist?list=PLbX78G3bHcTk02blTJlq1EaUoL9BAXBNz"},    
+    {name = "MAMAMOO Immortal Songs Performances", url = "https://www.youtube.com/playlist?list=PLzzl7xuKwGRP24e6iktfq5pkev_Ii0jx4"},    
+    {name = "ONEWE Kanghyun's BGM", url = "https://www.youtube.com/playlist?list=PLbX78G3bHcTnRLJ9CB68JZpGtmCh5noVl"},    
+    {name = "albums that I freaking love", url = "https://www.youtube.com/playlist?list=PL0AhFxILKAXj8IH66HGqgUFiSwB7SdoCW"},    
+    {name = "when gabut", url = "https://www.youtube.com/playlist?list=PL0AhFxILKAXiRvFGkB5ZjLgxHSITZlAyT"},
+    {name = "After Work", url = "https://www.youtube.com/playlist?list=PL0AhFxILKAXgyvgzovyhaJ5cbiHAFKdND"},
+    {name = "Starting Work", url = "https://www.youtube.com/playlist?list=PL0AhFxILKAXg9EjMHp_vGDq9aQukdsRsh"},
+    {name = "2010 is a music genre", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRnVpBSh-50aI3WThjL8uXSl"},
+    {name = "nsfw", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRkzBY1Zlr8999md0Ou8cCKR"},
+    {name = "PoP GooD", url = "https://music.youtube.com/playlist?list=PLE_uhVAa3GZtveY_EkrYKlIIc9r92qgxY"},
+    {name = "Funny Playlist", url = "https://music.youtube.com/playlist?list=PLE_uhVAa3GZuJeiLUVU0pA4Bd7IK88AtT"},
+    {name = "K-Pop Good", url = "https://music.youtube.com/playlist?list=PLE_uhVAa3GZuJeiLUVU0pA4Bd7IK88AtT"},
+    {name = "Calm Ed Sheeran", url = "https://music.youtube.com/playlist?list=PLQ2uNO2v6P8phKVLtZfaadte_D5evnC5B"},
+    {name = "Calm MAMAMOO", url = "https://music.youtube.com/playlist?list=PLQ2uNO2v6P8rilKj8mGgj1OwBh6QOjRM1"},
+    {name = "Love", url = "https://music.youtube.com/playlist?list=PLQ2uNO2v6P8pc6FLQHTLsx6DHLffMOl-O"},
+    {name = "K-Pop", url = "https://music.youtube.com/playlist?list=PLav350AkfRLltl-X9FfD0p7XVOf2i8spM"},
+    {name = "2022 Recap", url = "https://music.youtube.com/playlist?list=LRYREUQZ76ap-LP7-ZHigxPxF2wnS4J8jhPSO"},
+    {name = "Spring Recap '22", url = "https://music.youtube.com/playlist?list=LRSRRw6amsyUm4PjV_V7TNho4BGUN7iB8sxsH"},
+    {name = "Winter Recap '22", url = "https://music.youtube.com/playlist?list=LRSRN33KzNup_dofoXuWAn9557pwXCZT2nU6w"},
+    {name = "Afternoon Breeze", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRmGxTIVVMNnHjUYFVXYm7vM"},
+    {name = "Study/Work With Youtubers and Streamers", url = "https://www.youtube.com/playlist?list=PLbX78G3bHcTn5RdEtmuKzH2gYFvw-45zG"},
+    {name = "Old songs lofi remix", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRn7u631L68lXqZH_wnXgE6-"},
+    {name = "Hand Sew", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRnhFQeJEevHCKHlQkcSIFOR"},
+    {name = "PLAYLIST ALL ASTRO SONGS IN ORDER + OST", url = "https://music.youtube.com/playlist?list=PLxhFDDaBUk_jfp_82oRrx7uW9MbIMC3dl"},
+    {name = "Superband", url = "https://music.youtube.com/playlist?list=PL9MlTrE2AP57hH4CY3NNSb4oAGs4qV_Wg"},
+    {name = "루시", url = "https://music.youtube.com/playlist?list=PLRizQinsCsRnfVGv32EVoQmtW56DoSV7_"},
+    {name = "Something Nice", url = "https://music.youtube.com/playlist?list=PLRizQinsCsRlkjencbcmt8gEqvSHgHV-X"},
+    {name = "Knit Pattern", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRmWaVT0Lh6lvAXX4ach2NLJ"},
+    {name = "Work Work Work Out but Inside", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRmBHvK1Z4zwCG1PbIzRmU_u"},    
+    {name = "Bracelet Making - Beginner", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRlGF9Q-gWvEP3TXMDVVP5-N"},
+    {name = "Web", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRnABwbs27UzQK0SV55BOZ4i"},
+    ] 
+    background = "bg.mp4"

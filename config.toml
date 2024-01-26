@@ -1,9 +1,9 @@
-baseURL = ""
+baseURL = "https://ytplaylist.satriafii.social/"
 languageCode = "en-us"
 theme = "glim-midnight"
 
 [params]
-    title = "Glim Midnight"
+    title = "Youtube Playlist because I need it"
     phrases = ["Youtube", "Musics", "Minimal", "Videos"]
     links = [
     {name = "K-Band ❤️", url = "https://www.youtube.com/playlist?list=PLbX78G3bHcTk02blTJlq1EaUoL9BAXBNz"},    

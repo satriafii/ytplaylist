@@ -1,4 +1,4 @@
-baseURL = "https://ytplaylist.satriafii.social/"
+baseURL = ""
 languageCode = "en-us"
 theme = "glim-midnight"
 
@@ -35,16 +35,13 @@ theme = "glim-midnight"
     {name = "fun, i guess", url ="https://music.youtube.com/playlist?list=PLcS_llDSfjaC9vuYarmrdWiY9ei-qUgIt"},
     {name = "2023 Recap", url = "https://music.youtube.com/playlist?list=LRYReM80mCmvXg1rnuWRPVnQsdhHkGa0QojM4"},
     {name = "recent likes 26.01.2024", url ="https://music.youtube.com/playlist?list=PLcS_llDSfjaCn0fY7KLwOmjrTWqrX1w4V"},
-    {name = "Love Songs For Me, url ="https://music.youtube.com/playlist?list=PLcS_llDSfjaC9xRxZedKZKS9sogMdMnwz"},
-    {name = "Good Morning from MOOMOO", url ="https://music.youtube.com/playlist?list=PLxfDVnELVJBA9Jxl8XiU-GSXowuQM_-H2},
+    {name = "Love Songs For Me", url ="https://music.youtube.com/playlist?list=PLcS_llDSfjaC9xRxZedKZKS9sogMdMnwz"},
+    {name = "Good Morning from MOOMOO", url ="https://music.youtube.com/playlist?list=PLxfDVnELVJBA9Jxl8XiU-GSXowuQM_-H2"},
     {name = "Good Morning from WalWal", url ="https://music.youtube.com/playlist?list=PLxfDVnELVJBAAliLnYqcw7JpBoaonylYh"},
     {name = "Good Morning from Weve", url ="https://music.youtube.com/playlist?list=PLxfDVnELVJBCB8-rf10CSolat9JzsWYWN"},
     {name = "2010s hits for me", url ="https://music.youtube.com/playlist?list=PLxfDVnELVJBC8YPSvWVNrzBGxRVF5cKut"},
-    
-    
     {name = "Study/Work With Youtubers and Streamers", url = "https://www.youtube.com/playlist?list=PLbX78G3bHcTn5RdEtmuKzH2gYFvw-45zG"},
     {name = "Hand Sew", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRnhFQeJEevHCKHlQkcSIFOR"},
-
     {name = "Knit Pattern", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRmWaVT0Lh6lvAXX4ach2NLJ"},
     {name = "Work Work Work Out but Inside", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRmBHvK1Z4zwCG1PbIzRmU_u"},    
     {name = "Bracelet Making - Beginner", url = "https://www.youtube.com/playlist?list=PLRizQinsCsRlGF9Q-gWvEP3TXMDVVP5-N"},
